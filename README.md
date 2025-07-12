@@ -20,6 +20,19 @@
     - [Design](#design)
     - [Wireframes](#wireframes)
 
+2. [Features](#features)
+    - [Whole Site](#whole-site)
+
+
+
+3. [Testing & Bugs](#testing--bugs)
+    - [Code Validation](#code-validation)
+    - [Lighthouse Testing](#lighthouse-testing)
+    - [Browser Compatibility](#browser-compatibility)
+    - [Bugs during development and fixes](#bugs-during-development-and-fixes)
+    - [Functional Testing](#functional-testing)
+    - [Automated Testing](#automated-testing)
+    - [User Story Testing](#user-story-testing)
     
 
 
@@ -70,6 +83,11 @@
 ### User Journey
 
 
+### Admin Journey:
+
+
+
+#### User Flow Diagram:
 
 
 
@@ -82,7 +100,13 @@
 ### Design 
 
 
+#### Entity Relationship Diagram (ERD)
+
+
 #### **Website Structure**
+
+
+
 
 
 #### **Colours**
@@ -105,6 +129,46 @@ Tablet
 
 Desktop 
 
+<hr>
+
+## **Features**
 
 
 
+### Whole Site
+
+<hr>
+
+## **Testing & Bugs**
+
+
+
+### Code Validation
+
+
+#### HTML Validation
+
+
+#### CSS Validation
+
+
+#### JSLint Validation
+
+
+### Lighthouse Testing
+
+
+### Browser Compatibility 
+
+
+### Bugs during development and fixes:
+
+
+
+### Functional Testing 
+
+
+### Automated Testing 
+
+
+### User Story Testing
