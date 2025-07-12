@@ -1,6 +1,6 @@
 # Italiano Table
 
-
+<a name="Top"></a>
 
 #### **Live Website**
 
@@ -20,12 +20,15 @@
     - [Design](#design)
     - [Wireframes](#wireframes)
 
+
 2. [Features](#features)
     - [Whole Site](#whole-site)
 
 
+3. [Technologies](#technologies)
 
-3. [Testing & Bugs](#testing--bugs)
+
+4. [Testing & Bugs](#testing--bugs)
     - [Code Validation](#code-validation)
     - [Lighthouse Testing](#lighthouse-testing)
     - [Browser Compatibility](#browser-compatibility)
@@ -33,6 +36,10 @@
     - [Functional Testing](#functional-testing)
     - [Automated Testing](#automated-testing)
     - [User Story Testing](#user-story-testing)
+
+5. [Deployment](#deployment)
+
+6. [Credits](#credits)
     
 
 
@@ -137,6 +144,21 @@ Desktop
 
 ### Whole Site
 
+
+
+
+
+
+## Technologies
+
+
+### Languages
+
+
+
+### Tools
+
+
 <hr>
 
 ## **Testing & Bugs**
@@ -172,3 +194,21 @@ Desktop
 
 
 ### User Story Testing
+
+
+
+
+## Deployment
+
+
+
+
+## Credits
+
+
+
+
+
+
+
+[Back to Top](#top)
